@@ -1,4 +1,5 @@
-https://1drv.ms/i/c/f8399c854efe0c54/IQAr4UgtuE6rRLIeCgcYcTuuAYi6QIS2Oh1SEMUcJXfXqC0?e=2Ynxe5
+<img width="1919" height="1064" alt="Screenshot 2026-03-24 142302" src="https://github.com/user-attachments/assets/a363cb7f-c604-4c9e-bdcc-7cccc7911f67" />
+
 
 
 # 🪙 NFT Fractionalization on Stellar (Soroban)
