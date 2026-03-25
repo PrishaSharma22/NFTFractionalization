@@ -1,8 +1,12 @@
-<img width="1919" height="1064" alt="Screenshot 2026-03-24 142302" src="https://github.com/user-attachments/assets/a363cb7f-c604-4c9e-bdcc-7cccc7911f67" />
-
 
 
 # 🪙 NFT Fractionalization on Stellar (Soroban)
+
+<img width="1918" height="1079" alt="Screenshot 2026-03-25 134400" src="https://github.com/user-attachments/assets/cb7d2f56-ad2e-482f-be43-8ffc28485819" />
+
+<img width="1919" height="1064" alt="Screenshot 2026-03-24 142302" src="https://github.com/user-attachments/assets/a363cb7f-c604-4c9e-bdcc-7cccc7911f67" />
+
+
 
 ## 📌 Project Description
 
